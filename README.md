@@ -1,6 +1,8 @@
 # Data-Entry-for-Employees
 Angular 14,Angular Material, Html, css, Json(stores-CRUD)- RestAPI's
 
+The code is in master branch json data snapshot is in "db-1705778545710.json"
+
 
 Angular Full-Stack Project
 Overview
